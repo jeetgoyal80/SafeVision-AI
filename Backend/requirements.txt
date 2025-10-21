@@ -1,0 +1,11 @@
+fastapi==0.110.0
+uvicorn[standard]==0.23.1
+python-multipart==0.0.6
+pydantic==2.4.1
+opencv-python==4.9.0.73
+mediapipe==1.26.0
+ultralytics==8.1.0
+numpy==1.26.3
+aiofiles==23.1.0
+python-dotenv==1.0.0
+mediapipe==0.10.14
