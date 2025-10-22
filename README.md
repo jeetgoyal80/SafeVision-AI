@@ -125,17 +125,24 @@
 
 ---
 
-## 🖼️ Media Showcase
+## 🎥 Media & Demo
 
 | Type | Description |
 |------|--------------|
-| 🧩 **Architecture Image** | *(Insert image path here → `./assets/architecture.png`)* |
-| 🎥 **Demo Video** | *(Add your demo video link here → `https://youtu.be/<your_demo_video_id>`)* |
+| 🖥️ **Dashboard Preview** | ![Dashboard](./assests/Dashboard.png) |
+| 📡 **Live Feed Page** | ![LiveFeedPage](./assests/LiveFeedPage.png) |
+| 🗺️ **Map View (Alert Visualization)** | ![MapView](./assests/MapView.png) |
+| 💻 **Input Feed Sample** | ![Input](./assests/input.png) |
+| ✅ **Detected Output Sample** | ![Output Detected](./assests/output_detected.png) |
+| 🎥 **Demo Video** | [▶ Watch Demo on YouTube](https://youtu.be/<your_demo_video_id>) |
 
-**Recommended Video Content:**
-- 30–60 sec live demo with road hazard detection  
-- Split-screen showing raw vs blurred video  
-- Real-time alert display on frontend map  
+### 🎬 Recommended Demo Video Content
+- 30–60 sec live prototype demo  
+- Road hazard detection in real time (potholes / speed breakers / obstacles)  
+- Split-screen showing **Raw Feed vs Processed Feed**  
+- License-plate & face blurring demo  
+- Real-time alerts reflected on frontend map dashboard
+
 
 ---
 
